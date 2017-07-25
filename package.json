@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vegetasrevenge/first_express/issues"
   },
-  "homepage": "https://github.com/vegetasrevenge/first_express#readme"
+  "homepage": "https://github.com/vegetasrevenge/first_express#readme",
+  "dependencies": {
+    "chalk": "^2.0.1"
+  }
 }
