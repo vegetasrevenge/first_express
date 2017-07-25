@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vegetasrevenge/first_express#readme",
   "dependencies": {
-    "chalk": "^2.0.1"
+    "chalk": "^2.0.1",
+    "express": "^4.15.3"
   }
 }
